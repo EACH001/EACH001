@@ -10,7 +10,7 @@
 
 <!--snake-->
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/EACH001/EACH001/output/github-snake-dark.svg" alt="snake" />
 </div>
 
 <!--Subtítulo-->
